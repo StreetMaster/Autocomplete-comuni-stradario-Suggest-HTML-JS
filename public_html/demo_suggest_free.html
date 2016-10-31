@@ -1,0 +1,87 @@
+<!--
+Esempio di utilizzo del servizio suggest per l'autocompletamento degli indirizzi italiani realizzato da StreetMaster Italia
+     
+L'end point della libreria da includere nella sezione js di inizializzazione nella pagina è 
+    http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest_free.js
+     
+Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio SUGGEST 
+2016 - Software by StreetMaster (c) 
+-->
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Suggest Free-Street Master</title>
+
+        <!-- include della libreria di gestione Suggest StreetMaster -->
+        <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest_free.js"></script>
+        <!--Inizio dichiarazioni Suggest StreetMaster -->
+        <script type="text/javascript">
+            // inizilizzazione numero aree di suggest nella pagina
+            initStruct(1);
+
+            // chiave suggest, collegata all'url della pagina
+            //            keyTR = "inserire la chiave SUGGEST Free";
+            keyTR = "demosuggest";
+
+            // dichiarazione dei controlli di input\output per il suggest
+            aAddressSet[0].townSrch = "txtComune";
+            aAddressSet[0].town = "txtComune";
+            aAddressSet[0].prov = "txtProv";
+            aAddressSet[0].zip = "txtCap";
+            aAddressSet[0].village = "txtFrazione";
+     
+            provSearch = false;
+        </script>
+        <!--Fine dichiarazioni Suggest Free StreetMaster -->
+    </head>
+    <body bgcolor="#E6E6FA" contenteditable="true">
+        <div style="border: groove; border-color: #336600; width: 482px;">
+
+            <table border="0" cellpadding="2" cellspacing="2" class="auto-style1">
+                <tbody><tr>
+                        <th colspan="2">
+
+                            <img src="logo-street-master.png" alt="StreetMaster logo" style="width:252px;height:60px;"> 
+                            <br>
+                            <br>
+                            <font size="6"> Suggest</font></th>
+                    </tr>
+                    <tr>
+                        <td>Comune
+                        </td>
+                        <td>
+                            <input id="txtComune" style="width: 400px;border-color: green;border-width:2px" autocomplete="off" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Provincia</td>
+                        <td>
+                            <input id="txtProv" style="width: 30px" autocomplete="off" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Cap</td>
+                        <td>
+                            <input id="txtCap" style="width: 50px" autocomplete="off" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Frazione</td>
+                        <td>
+                            <input id="txtFrazione" style="width: 400px" autocomplete="off" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td/>
+                        <td/>
+                    </tr>
+                </tbody></table>
+        </div>
+        <p>
+            ATTENZIONE  
+            <br>
+            Prima dell'utilizzo valorizzare la chiave del servizio SUGGEST Free nella sezione dichiarativa JS della pagina
+        </p>  
+    </body>
+</html>
