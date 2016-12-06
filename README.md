@@ -44,7 +44,7 @@ Informazioni aggiuntive SUGGEST
 
 ## Aggiornamenti base dati comunale
   - 01/01/2016 Istituzione
-  - 05/12/206 Inserimento nuovi comuni di Alpago e Val di Zoldo
+  - 05/12/2066 Inserimento nuovi comuni di Alpago e Val di Zoldo
   - 05/12/2016 Soppressione comuni di Zoldo Alto,Forno di Zoldo,Prestine, Ivano-Francena,Farra d'Alpago,Pieve d'Alpago,Puos d'Alpago
   
 
