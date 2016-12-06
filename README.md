@@ -1,4 +1,4 @@
-# DemoSuggestHTML_JS
+# DemoSuggestHTML_JS - Autocomplete Comuni italiani e indirizzi
 Demo html/js per l'utilizzo del servizio SUGGEST e SUGGESTFREE di autocompletamento dei comuni e degli indirizzi italiani 
 
 ##Ambiente di sviluppo
