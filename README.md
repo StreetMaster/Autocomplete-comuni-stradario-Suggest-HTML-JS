@@ -1,6 +1,6 @@
 # Autocomplete Comuni italiani e indirizzi 
 ## Demo Suggest HTML/JS 
-Demo html/js per l'utilizzo del servizio SUGGEST e SUGGESTFREE di autocompletamento dei comuni e degli indirizzi italiani 
+Demo html/js per l'utilizzo del servizio SUGGEST e SUGGESTFREE di autocomplete dei comuni e degli indirizzi italiani 
 
 ###Ambiente di sviluppo
   - NetBeans IDE 8.1
@@ -20,6 +20,7 @@ Endpoint della libreria da includere nella sezione js di inizializzazione per il
 ```
 ### Key
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio SUGGEST o SUGGEST Free.
+La versione free permette di fare l'autocompletamento delle informazioni di comune\cap\provincia\frazione
 
 ### Condizioni
 Il servizio SUGGEST permette di effettuare in maniera gratuita 1800 chiamate mensili.
@@ -32,6 +33,8 @@ Il servizio ha una copertura a livello di strada su tutto il territorio nazional
 La base dati di riferimento è costantemente aggiornata con le variazioni amministrative e postali ufficiali.
 
 ### Ouput
+L'autocompletamento del comune si attiva in automatico appenal'utente comincia a scrivere nel textbox
+
 Output di base Suggest free:
   - comune\\cap\provincia\frazione verificato e corretto in tutti i suoi compomenti
   
