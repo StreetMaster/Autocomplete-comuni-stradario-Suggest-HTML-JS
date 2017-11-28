@@ -1,6 +1,6 @@
-# Autocomplete Comuni italiani e indirizzi 
+# Comuni italiani e stradario - Autocomplete 
 ## Demo Suggest HTML/JS 
-Demo html/js per l'utilizzo del servizio SUGGEST e SUGGESTFREE di autocomplete dei comuni e degli indirizzi italiani 
+Comuni italiani e stradario. Demo html/js per l'utilizzo del servizio SUGGEST e SUGGESTFREE di autocomplete. 
 
 ###Ambiente di sviluppo
   - NetBeans IDE 8.1
