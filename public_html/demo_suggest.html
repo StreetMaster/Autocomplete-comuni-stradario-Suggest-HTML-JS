@@ -15,16 +15,15 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
         <title>Suggest-Street Master</title>
 
         <!-- include della libreria di gestione Suggest StreetMaster -->
-       <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest.js"></script>
+       <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.1/suggest.js"></script>
         <!--Inizio dichiarazioni Suggest StreetMaster -->
         <script type="text/javascript">
             // inizilizzazione numero aree di suggest nella pagina
             initStruct(1);
 
             // chiave suggest, collegata all'url della pagina
-            //        keyTR = "inserire la chiave SUGGEST";
-            keyTR = "demosuggest";
-
+            keyTR = "Inserire la chiave SUGGEST";
+            
             // dichiarazione dei controlli di input\output per il suggest
             aAddressSet[0].townSrch = "txtComune";
             aAddressSet[0].town = "txtComune";
@@ -34,6 +33,8 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
             aAddressSet[0].address = "txtIndirizzo";
 
             provSearch = false;
+            provFormatLong=false;
+            outGerman=true;
         </script>
         <!--Fine dichiarazioni Suggest StreetMaster -->
     </head>
