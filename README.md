@@ -12,11 +12,11 @@ Comuni italiani e stradario. Soluzione html/js per l'utilizzo del servizio SUGGE
 ###Endpoint
 Endpoint della libreria da includere nella sezione js di inizializzazione per il servizio Suggest 
 ```
-    http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest.js
+    http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.1/suggest.js
 ``` 
 Endpoint della libreria da includere nella sezione js di inizializzazione per il servizio Suggest Free 
 ```
-    http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest_free.js
+    http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.1/suggest_free.js
 ```
 ### Key
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio SUGGEST o SUGGEST Free.
