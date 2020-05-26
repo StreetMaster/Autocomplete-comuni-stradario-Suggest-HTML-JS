@@ -63,7 +63,10 @@ Informazioni aggiuntive SUGGEST
   - 18/06/2019 Soppressione comuni di Cavaglio-Spoccia,Cursolo-Orasso,Falmenta,Alice Superiore,Lugnacco,Pecco,Vico Canavese,Trausella,Meugliano,Cerreto Castello,Quaregna,Mosso,Soprana,Trivero,Valle Mosso,Camo,Valmala,Castellar,Gattico,Veruno,Riva Valdobbia,Lu,Cuccaro Monferrato,Zambana,Nave San Rocco,Berra,Ro,Formignana,Tresigallo,Mezzani,Sorbolo,Barberino Val d'Elsa,Tavarnelle Val di Pesa,Borgofranco sul Po,Carbonara di Po,Bigarello,Solbiate,Cagno,Piadena,Drizzona,Ca' d'Andrea,Canevino,Ruino,Valverde(PV),Vermezzo,Zelo Surrigone,Cadrezzate,Osmate,Auditore,Sassocorvaro,Lentiai,Mel,Trichiana,Crespano del Grappa,Paderno del Grappa,Campolongo sul Brenta,Cismon del Grappa,San Nazario,Valstagna,Lusiana,Conco,Mason Vicentino,Molvena              
   - 09/12/2019 Soppressione comuni di Presicce e Acquarica del Capo
   - 09/12/2019 Creazione comune di Presicce-Acquarica
-    
+  - 25/05/2020 Soppressione comuni Castelfondo,Fondo,Malosco,Cagno',Revo,Romallo,Cloz,Brez,Carano,daiano,Varena,Faedo,Vendrogno
+  - 25/05/2020 Creazione comuni di Novella,Borgo d'Anaunia,Ville di Fiemme
+  - 25/05/2020 Riorganizzazione cap della provincia di Milano
+  
 ### Support
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
 
