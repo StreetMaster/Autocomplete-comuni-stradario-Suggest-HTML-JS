@@ -66,7 +66,8 @@ Informazioni aggiuntive SUGGEST
   - 25/05/2020 Soppressione comuni Castelfondo,Fondo,Malosco,Cagno',Revo,Romallo,Cloz,Brez,Carano,daiano,Varena,Faedo,Vendrogno
   - 25/05/2020 Creazione comuni di Novella,Borgo d'Anaunia,Ville di Fiemme
   - 25/05/2020 Riorganizzazione cap della provincia di Milano
-  
+  - 07/12/2020 Soppressione comune di Monteciccardo
+   
 ### Support
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
 
