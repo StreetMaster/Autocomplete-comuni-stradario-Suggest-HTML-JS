@@ -68,7 +68,10 @@ Informazioni aggiuntive SUGGEST
   - 25/05/2020 Riorganizzazione cap della provincia di Milano
   - 07/12/2020 Soppressione comune di Monteciccardo
   - 25/08/2021 Creazione comune di Misiliscemi (TP) e cambio di provincia per Montecopiolo e Sassofeltrio
- 
+  - 20/04/2022 Variazione cap Staletti e varie frazioni di Casalfiumanese,Ragusa, Riva del Garda. Plati', Chiaramonte Gulfi,Potenza,Isola del Giglio e Celico
+  - 28/02/2023 Soppressione dei comuni di Bardello(VA), Bregano(VA), Malgesso (VA), Moransengo(AT) e Tonengo (AT)
+  - 28/02/2023 Creazione dei comuni di Bardello con Malgesso e Bregano (VA) e Moransengo-Tonengo (AT)
+  
 ### Support
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
 
