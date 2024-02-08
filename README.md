@@ -71,7 +71,10 @@ Informazioni aggiuntive SUGGEST
   - 20/04/2022 Variazione cap Staletti e varie frazioni di Casalfiumanese,Ragusa, Riva del Garda. Plati', Chiaramonte Gulfi,Potenza,Isola del Giglio e Celico
   - 28/02/2023 Soppressione dei comuni di Bardello(VA), Bregano(VA), Malgesso (VA), Moransengo(AT) e Tonengo (AT)
   - 28/02/2023 Creazione dei comuni di Bardello con Malgesso e Bregano (VA) e Moransengo-Tonengo (AT)
-  
+  - 06/02/2024 Incorporazione del comune di Albaredo Arnaboldi in quello di Campospinoso con cammbio di denominazione in Campospinoso Albaredo (PV). 
+  - 06/02/2024 Soppressione dei comuni di Gambugliano(VI), Quero Vas (BL), Alano di Piave (BL), Vighizzolo d'Este (PD), Carceri (PD), Ronago (CO), Uggiate-Trevano (CO)
+  - 06/02/2024 Inserimento nuovi comuni di Uggiante con Ronago (CO),Setteville (BL) e Santa Caterina d'Este (PD)
+      
 ### Support
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
 
